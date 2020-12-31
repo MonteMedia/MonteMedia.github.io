@@ -139,7 +139,7 @@ b.light-color{ color: #444; }
 
 /* SOCIAL BTN */
 
-.main-area .social-btn{ position: absolute; bottom: 30px; width: 100%; left: 50%; transform: translateX(-50%); }
+.main-area .social-btn{ position: absolute; /**bottom: 30px;**/ width: 100%; left: 50%; transform: translateX(-50%); }
 
 
 .main-area .social-btn .list-heading{ display: block; margin-bottom: 15px; }
